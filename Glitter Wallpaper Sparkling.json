@@ -1,5 +1,5 @@
 {
-	"Ads": [
+	"Adsx": [
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "APPLOVIN-M",
@@ -34,7 +34,7 @@
 			"link": "link"
 		}
 	],
-	"Categories": [
+	"Categoriesx": [
 		{
 			"id": 1,
 			"name_category": "Glitter",
@@ -86,7 +86,7 @@
 			"image": "https://i.pinimg.com/564x/69/ba/3d/69ba3d3bfca9e1a00cb831844cd1ec21.jpg"
 		}
 	],
-	"Data": [
+	"Datax": [
 		{
 			"id": 1,
 			"name_category": "Glitter",
